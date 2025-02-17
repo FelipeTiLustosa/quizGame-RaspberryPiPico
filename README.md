@@ -94,6 +94,10 @@ Para contribuir com o projeto:
 3. Implemente e teste suas mudanças
 4. Envie um pull request
 
+**9. Link do vídeo explicativo sobre o projeto**
+
+[Link do vídeo demonstrativo](https://youtu.be/a6SSw6kvukw?si=uR3zhW79hlxwzJBE)
+
 **Autor** ✍️
 Felipe Lustosa Carvalho
 
