@@ -17,7 +17,7 @@ Abaixo estão listadas as principais funcionalidades do projeto:
 **3. Hardware Necessário** 🔧
 * **Microcontrolador**: Raspberry Pi Pico
 * **Display**: OLED SSD1306 (I2C)
-* **LEDs**: 3 LEDs (Vermelho, Verde, Azul)
+* **LEDs**: 3 LEDs (Vermelho, Verde)
 * **Botões**: 2 botões de pressão
 * **Buzzer**: Buzzer piezoelétrico
 * **Componentes Adicionais**:
