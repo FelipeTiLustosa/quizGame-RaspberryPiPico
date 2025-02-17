@@ -47,7 +47,7 @@ Abaixo estão listadas as principais funcionalidades do projeto:
 
 **5.2. Clonar e Compilar**
 ```bash
-git clone [URL_DO_REPOSITORIO]
+git clone git@github.com:FelipeTiLustosa/quizGame-RaspberryPiPico.git
 cd project1
 mkdir build
 cd build
